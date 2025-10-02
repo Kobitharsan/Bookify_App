@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bookify</string>
+    <string name="back">back</string>
+    <string name="toggle_favourite">Toggle favourite</string>
+    <string name="account_title">Account</string>
+    <string name="account_holder">ACCOUNT HOLDER  :   User</string>
+    <string name="account_email">EMAIL ADDRESS   :   user@gmail.com</string>
+    <string name="account_dob">DATE OF BIRTH   :   00-00-0000</string>
+    <string name="account_mobile">MOBILE NUMBER   :   000 000 0000</string>
+</resources>

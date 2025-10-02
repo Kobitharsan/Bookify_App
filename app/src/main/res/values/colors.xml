@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 10% -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#43A4FE</color>
+    <!-- 60% -->
+    <color name="lighteblue">#BCDFFF</color>
+    <color name="gray">#E6EFF7</color>
+    <!-- 30% -->
+    <color name="splash_blue">#4AA3FF</color>
+    <color name="primaryBlue">#4AA3FF</color>
+    <color name="topBlue">#DDEEFF</color>
+    <color name="textSecondary">#7A7F87</color>
+    <color name="dotInactive">#D0D6DE</color>
+    <color name="nav_bg">#E9F2F8</color>
+    <color name="nav_active">#222222</color>
+    <color name="nav_inactive">#6B6F75</color>
+</resources>

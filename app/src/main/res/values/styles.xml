@@ -1,0 +1,35 @@
+<resources>
+    <style name="BottomNav.Text.Active" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="BottomNav.Text.Inactive" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="Widget.Bookify.NavButton" parent="Widget.Material3.Button">
+        <!-- size & layout -->
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">56dp</item>
+        <item name="android:layout_weight">1</item>
+
+        <!-- toggle behaviour -->
+        <item name="android:checkable">true</item>
+
+        <!-- pill look -->
+        <item name="cornerRadius">28dp</item>
+        <item name="backgroundTint">@color/nav_button_tint</item>
+        <item name="strokeColor">@android:color/transparent</item>
+        <item name="rippleColor">@android:color/transparent</item>
+
+        <!-- icon + (optional) text -->
+        <item name="iconGravity">textStart</item>
+        <item name="iconPadding">12dp</item>
+        <item name="iconTint">@color/nav_icon_tint</item>
+
+        <!-- typography -->
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/nav_text_tint</item>
+    </style>
+</resources>
