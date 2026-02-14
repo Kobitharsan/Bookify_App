@@ -212,12 +212,6 @@ Run instrumented tests (device/emulator required):
 
 ---
 
-## 📄 License
-
-This project is provided as-is for educational and portfolio use. See the [LICENSE](LICENSE) file in the repository for terms and conditions.
-
----
-
 <p align="center">
   <sub>Built with Kotlin & Material Design 3</sub>
 </p>
